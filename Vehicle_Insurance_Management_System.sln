@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicle_Insurance_Management_System", "Vehicle_Insurance_Management_System\Vehicle_Insurance_Management_System.csproj", "{5AC7AD94-1363-4E9F-8F60-09C13E419F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AC7AD94-1363-4E9F-8F60-09C13E419F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC7AD94-1363-4E9F-8F60-09C13E419F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC7AD94-1363-4E9F-8F60-09C13E419F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC7AD94-1363-4E9F-8F60-09C13E419F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
